@@ -10,11 +10,11 @@ David S. Stoffer  is Professor Emeritus <br/>
 
 &#10024; The R package [astsa](https://github.com/nickpoison/astsa/blob/master/README.md) along with the latest news
 
- &#10024; General info and the `astsa` changelog is at the [NEWS](https://github.com/nickpoison/astsa/blob/master/NEWS.md) page
+ &#10024; General info and the `astsa` changelog is at the [NEWS](https://github.com/nickpoison/astsa/blob/main/NEWS.md) page
 
  &#10024;  [FUN WITH ASTSA](https://github.com/nickpoison/astsa/blob/master/fun_with_astsa/fun_with_astsa.md) has many demonstrations of `astsa` capabilities
 
-&#10024;  All the R code used in [Time Series Analysis and Its Applications](https://github.com/nickpoison/tsa5/blob/master/textRcode.md) (edition 5)
+&#10024;  All the R code used in [Time Series Analysis and Its Applications](https://github.com/nickpoison/tsa5/blob/main/textRcode.md) (edition 5)
 
 &#10024;  All the R code used in [Time Series: A Data Analysis Approach Using R](https://github.com/nickpoison/tsda/blob/main/Rcode.md)
 
